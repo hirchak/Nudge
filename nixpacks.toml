@@ -1,2 +1,4 @@
 [python]
 version = "3.12"
+setup = "cd src && pip install -r requirements.txt"
+start = "cd src && python bot.py"
